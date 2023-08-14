@@ -1,5 +1,6 @@
-
-
+AdventureWorks2017 DB kullanılmıştır. DB'yi indirmek için aşağıdaki adresi kullanabilirsiniz. 
+https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2017.bak 
+---------------------------------------------------------------------------------------------------------------
 -- Soru 1: Sql server’da metinsel, sayısal ve tarihsel veri tiplerini ve açıklamalarını yazınız.
 /*
 Metinsel Veri Tipleri
